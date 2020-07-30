@@ -1,0 +1,14 @@
+Age:61 OW: $3567.12 AW: $312.31
+Total CPF contribution:		$640
+Employee CPF contribution:	$290
+Employer CPF contribution:	$350
+Contribution to Ordinary Account: $135.81
+Contribution to Special Account: $96.96
+Contribution to Medisave Account: $407.23
+Age:60 OW: $3567.12 AW: $312.31
+Total CPF contribution:		$1009
+Employee CPF contribution:	$504
+Employer CPF contribution:	$505
+Contribution to Ordinary Account: $465.75
+Contribution to Special Account: $135.81
+Contribution to Medisave Account: $407.43
